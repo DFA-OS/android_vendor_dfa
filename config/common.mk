@@ -196,6 +196,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
     vendor/dfa/overlay/no-rro
 
 PRODUCT_PACKAGES += \
+		NetworkStackOverlay \
     TrebuchetOverlay
 
 # Translations
